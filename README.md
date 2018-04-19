@@ -1,5 +1,4 @@
-# Proposal-
-Proposal 
+# Proposal
 
 
 # Walking & Dancing Robot Reacting to Proximity Sensors
